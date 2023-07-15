@@ -1,0 +1,771 @@
+Hi! Project by Harsh Mishra.
+
+---------------------------------------------
+|Main Menu|
+---------------------------------------------
+Choose from the following options :
+1.Book Issue
+2.Book Deposit
+3.Administrator Menu
+4.Exit
+
+Enter your choice : 3
+Enter the admin password: 12345
+
+---------------------------------------------
+| Administrator Menu |
+---------------------------------------------
+1. Book's record
+2. Student's record
+3. View summary
+4. Back to Menu
+
+Enter your choice: 1
+
+Now, what do you want to do?
+1. Create a record
+2. Display specific record
+3. Display all records
+4. Modify a record
+5. Delete a record
+
+Enter your choice: 1
+
+---------------------------------------------
+|Inserting Book Record|
+---------------------------------------------
+Enter the details of the book :
+Enter the book's number : 1001
+Enter the book's name : Madhushala
+Enter the book's author name : Harivansh
+
+Do you want to add more records(Y/N) : y
+
+Enter the details of the book :
+Enter the book's number : 1002
+Enter the book's name : Godan
+Enter the book's author name : Premchand
+
+Do you want to add more records(Y/N) : y
+
+Enter the details of the book :
+Enter the book's number : 1003
+Enter the book's name : Manikarnika
+Enter the book's author name : Jainendra
+
+Do you want to add more records(Y/N) : y
+
+Enter the details of the book :
+Enter the book's number : 1004
+Enter the book's name : Rashmirathi
+Enter the book's author name : Ramdhari
+
+Do you want to add more records(Y/N) : y
+
+Enter the details of the book :
+Enter the book's number : 1005
+Enter the book's name : Aandhi
+Enter the book's author name : Bharatendu
+
+Do you want to add more records(Y/N) : y
+
+Enter the details of the book :
+Enter the book's number : 1006
+Enter the book's name : Virat
+Enter the book's author name : Mahavir
+
+Do you want to add more records(Y/N) : y
+
+Enter the details of the book :
+Enter the book's number : 1007
+Enter the book's name : Nirmala
+Enter the book's author name : Premchand
+
+Do you want to add more records(Y/N) : y
+
+Enter the details of the book :
+Enter the book's number : 1008
+Enter the book's name : Gunahon
+Enter the book's author name : Dharamvir
+
+Do you want to add more records(Y/N) : n
+
+---------------------------------------------
+| Administrator Menu |
+---------------------------------------------
+1. Book's record
+2. Student's record
+3. View summary
+4. Back to Menu
+
+Enter your choice: 2
+
+Now, what do you want to do?
+1. Create a record
+2. Display specific record
+3. Display all records
+4. Modify a record
+5. Delete a record
+
+Enter your choice: 1
+
+---------------------------------------------
+|Inserting Student Record|
+---------------------------------------------
+Enter the details of the student :
+Enter the admission number of the student : 20001
+Enter the name of the student : Rohit Kumar
+
+Do you want to add more records(Y/N) : y
+
+Enter the details of the student :
+Enter the admission number of the student : 20002
+Enter the name of the student : Priya Sharma
+
+Do you want to add more records(Y/N) : y
+
+Enter the details of the student :
+Enter the admission number of the student : 20003
+Enter the name of the student : Rahul Verma
+
+Do you want to add more records(Y/N) : y
+
+Enter the details of the student :
+Enter the admission number of the student : 20004
+Enter the name of the student : Ananya Singh
+
+Do you want to add more records(Y/N) : y
+
+Enter the details of the student :
+Enter the admission number of the student : 20005
+Enter the name of the student : Aditya Patel
+
+Do you want to add more records(Y/N) : y
+
+Enter the details of the student :
+Enter the admission number of the student : 20006
+Enter the name of the student : Nisha Gupta
+
+Do you want to add more records(Y/N) : y
+
+Enter the details of the student :
+Enter the admission number of the student : 20007
+Enter the name of the student : Deepak Mishra
+
+Do you want to add more records(Y/N) : y
+
+Enter the details of the student :
+Enter the admission number of the student : 20008
+Enter the name of the student : Aarti Singh
+
+Do you want to add more records(Y/N) : y
+
+Enter the details of the student :
+Enter the admission number of the student : 20009
+Enter the name of the student : Rohan Sharma
+
+Do you want to add more records(Y/N) : y
+
+Enter the details of the student :
+Enter the admission number of the student : 20010
+Enter the name of the student : Divya Patel
+
+Do you want to add more records(Y/N) : n
+
+---------------------------------------------
+| Administrator Menu |
+---------------------------------------------
+1. Book's record
+2. Student's record
+3. View summary
+4. Back to Menu
+
+Enter your choice: 1
+
+Now, what do you want to do?
+1. Create a record
+2. Display specific record
+3. Display all records
+4. Modify a record
+5. Delete a record
+
+Enter your choice: 3
+
+---------------------------------------------
+|Showing All Book Record|
+---------------------------------------------
+Details of all the books are as follows :
+
+Book's number : 1001
+Book's name : Madhushala
+Book's author : Harivansh
+
+Book's number : 1002
+Book's name : Godan
+Book's author : Premchand
+
+Book's number : 1003
+Book's name : Manikarnika
+Book's author : Jainendra
+
+Book's number : 1004
+Book's name : Rashmirathi
+Book's author : Ramdhari
+
+Book's number : 1005
+Book's name : Aandhi
+Book's author : Bharatendu
+
+Book's number : 1006
+Book's name : Virat
+Book's author : Mahavir
+
+Book's number : 1007
+Book's name : Nirmala
+Book's author : Premchand
+
+Book's number : 1008
+Book's name : Gunahon
+Book's author : Dharamvir
+
+---------------------------------------------
+| Administrator Menu |
+---------------------------------------------
+1. Book's record
+2. Student's record
+3. View summary
+4. Back to Menu
+
+Enter your choice: 2
+
+Now, what do you want to do?
+1. Create a record
+2. Display specific record
+3. Display all records
+4. Modify a record
+5. Delete a record
+
+Enter your choice: 3
+
+---------------------------------------------
+|Showing All Student Record|
+---------------------------------------------
+Details of all the students are as follows :
+
+Admssion number of the student is : 20001
+Name of the student is : Rohit Kumar
+
+Admssion number of the student is : 20002
+Name of the student is : Priya Sharma
+
+Admssion number of the student is : 20003
+Name of the student is : Rahul Verma
+
+Admssion number of the student is : 20004
+Name of the student is : Ananya Singh
+
+Admssion number of the student is : 20005
+Name of the student is : Aditya Patel
+
+Admssion number of the student is : 20006
+Name of the student is : Nisha Gupta
+
+Admssion number of the student is : 20007
+Name of the student is : Deepak Mishra
+
+Admssion number of the student is : 20008
+Name of the student is : Aarti Singh
+
+Admssion number of the student is : 20009
+Name of the student is : Rohan Sharma
+
+Admssion number of the student is : 20010
+Name of the student is : Divya Patel
+
+---------------------------------------------
+| Administrator Menu |
+---------------------------------------------
+1. Book's record
+2. Student's record
+3. View summary
+4. Back to Menu
+
+Enter your choice: 1
+
+Now, what do you want to do?
+1. Create a record
+2. Display specific record
+3. Display all records
+4. Modify a record
+5. Delete a record
+
+Enter your choice: 2
+
+---------------------------------------------
+|Showing Specific Book Record|
+---------------------------------------------
+Enter the book number of the book you want to be shown : 1006
+
+Details of the book are as follows :
+
+Book's number : 1006
+Book's name : Virat
+Book's author : Mahavir
+
+Do you want to search for more records(Y/N) : n
+
+---------------------------------------------
+| Administrator Menu |
+---------------------------------------------
+1. Book's record
+2. Student's record
+3. View summary
+4. Back to Menu
+
+Enter your choice: 1
+
+Now, what do you want to do?
+1. Create a record
+2. Display specific record
+3. Display all records
+4. Modify a record
+5. Delete a record
+
+Enter your choice: 4
+
+---------------------------------------------
+|Modifying Specific Book Record|
+---------------------------------------------
+Enter the book number of the book to be modified : 1004
+
+Previous details of the book :
+Book's number : 1004
+Book's name : Rashmirathi
+Book's author : Ramdhari
+
+Enter the new details of the book :
+Enter the book's new name : White Tiger
+Enter the book's new author name : Aravind
+
+New details of the book are :
+Book's number : 1004
+Book's name : White Tiger
+Book's author : Aravind
+
+Do you want to modify more records(Y/N) : n
+
+---------------------------------------------
+| Administrator Menu |
+---------------------------------------------
+1. Book's record
+2. Student's record
+3. View summary
+4. Back to Menu
+
+Enter your choice: 2
+
+Now, what do you want to do?
+1. Create a record
+2. Display specific record
+3. Display all records
+4. Modify a record
+5. Delete a record
+
+Enter your choice: 5
+
+---------------------------------------------
+|Deleting Specific Student Record|
+---------------------------------------------
+Enter the student's admission number, to be deleted : 20010
+
+Record successfully deleted.
+
+Do you want to delete more records(Y/N) : n
+
+---------------------------------------------
+| Administrator Menu |
+---------------------------------------------
+1. Book's record
+2. Student's record
+3. View summary
+4. Back to Menu
+
+Enter your choice: 2
+
+Now, what do you want to do?
+1. Create a record
+2. Display specific record
+3. Display all records
+4. Modify a record
+5. Delete a record
+
+Enter your choice: 3
+
+---------------------------------------------
+|Showing All Student Record|
+---------------------------------------------
+Details of all the students are as follows :
+
+Admssion number of the student is : 20001
+Name of the student is : Rohit Kumar
+
+Admssion number of the student is : 20002
+Name of the student is : Priya Sharma
+
+Admssion number of the student is : 20003
+Name of the student is : Rahul Verma
+
+Admssion number of the student is : 20004
+Name of the student is : Ananya Singh
+
+Admssion number of the student is : 20005
+Name of the student is : Aditya Patel
+
+Admssion number of the student is : 20006
+Name of the student is : Nisha Gupta
+
+Admssion number of the student is : 20007
+Name of the student is : Deepak Mishra
+
+Admssion number of the student is : 20008
+Name of the student is : Aarti Singh
+
+Admssion number of the student is : 20009
+Name of the student is : Rohan Sharma
+
+---------------------------------------------
+| Administrator Menu |
+---------------------------------------------
+1. Book's record
+2. Student's record
+3. View summary
+4. Back to Menu
+
+Enter your choice: 1
+
+Now, what do you want to do?
+1. Create a record
+2. Display specific record
+3. Display all records
+4. Modify a record
+5. Delete a record
+
+Enter your choice: 3
+
+---------------------------------------------
+|Showing All Book Record|
+---------------------------------------------
+Details of all the books are as follows :
+
+Book's number : 1001
+Book's name : Madhushala
+Book's author : Harivansh
+
+Book's number : 1002
+Book's name : Godan
+Book's author : Premchand
+
+Book's number : 1003
+Book's name : Manikarnika
+Book's author : Jainendra
+
+Book's number : 1004
+Book's name : White Tiger
+Book's author : Aravind
+
+Book's number : 1005
+Book's name : Aandhi
+Book's author : Bharatendu
+
+Book's number : 1006
+Book's name : Virat
+Book's author : Mahavir
+
+Book's number : 1007
+Book's name : Nirmala
+Book's author : Premchand
+
+Book's number : 1008
+Book's name : Gunahon
+Book's author : Dharamvir
+
+---------------------------------------------
+| Administrator Menu |
+---------------------------------------------
+1. Book's record
+2. Student's record
+3. View summary
+4. Back to Menu
+
+Enter your choice: 4
+
+---------------------------------------------
+|Main Menu|
+---------------------------------------------
+Choose from the following options :
+1.Book Issue
+2.Book Deposit
+3.Administrator Menu
+4.Exit
+
+Enter your choice : 2
+
+---------------------------------------------
+|Book Deposit|
+---------------------------------------------
+Enter the admission number of the student : 20003
+
+Student hadn't issued any book.
+
+---------------------------------------------
+|Main Menu|
+---------------------------------------------
+Choose from the following options :
+1.Book Issue
+2.Book Deposit
+3.Administrator Menu
+4.Exit
+
+Enter your choice : 2
+
+---------------------------------------------
+|Book Deposit|
+---------------------------------------------
+Enter the admission number of the student : 20002
+
+Student hadn't issued any book.
+
+---------------------------------------------
+|Main Menu|
+---------------------------------------------
+Choose from the following options :
+1.Book Issue
+2.Book Deposit
+3.Administrator Menu
+4.Exit
+
+Enter your choice : 1
+
+---------------------------------------------
+|Book Issue|
+---------------------------------------------
+Enter the admission number of the student : 20007
+Enter the book number : 1002
+
+Details of the book are :
+Book's number : 1002
+Book's name : Godan
+Book's author : Premchand
+
+Now, just enter today's date as DD/MM/YY : 02/02/22
+
+Book issued successfully.
+
+Student have to return this book after 15 days.
+After 15 days fine will be added @ Rs.10/day.
+
+---------------------------------------------
+|Main Menu|
+---------------------------------------------
+Choose from the following options :
+1.Book Issue
+2.Book Deposit
+3.Administrator Menu
+4.Exit
+
+Enter your choice : 1
+
+---------------------------------------------
+|Book Issue|
+---------------------------------------------
+Enter the admission number of the student : 20004
+Enter the book number : 1004
+
+Details of the book are :
+Book's number : 1004
+Book's name : White Tiger
+Book's author : Aravind
+
+Now, just enter today's date as DD/MM/YY : 03/02/22
+
+Book issued successfully.
+
+Student have to return this book after 15 days.
+After 15 days fine will be added @ Rs.10/day.
+
+---------------------------------------------
+|Main Menu|
+---------------------------------------------
+Choose from the following options :
+1.Book Issue
+2.Book Deposit
+3.Administrator Menu
+4.Exit
+
+Enter your choice : 1
+
+---------------------------------------------
+|Book Issue|
+---------------------------------------------
+Enter the admission number of the student : 20004
+
+Student hadn't return the previous book.
+
+---------------------------------------------
+|Main Menu|
+---------------------------------------------
+Choose from the following options :
+1.Book Issue
+2.Book Deposit
+3.Administrator Menu
+4.Exit
+
+Enter your choice : 1
+
+---------------------------------------------
+|Book Issue|
+---------------------------------------------
+Enter the admission number of the student : 20007
+
+Student hadn't return the previous book.
+
+---------------------------------------------
+|Main Menu|
+---------------------------------------------
+Choose from the following options :
+1.Book Issue
+2.Book Deposit
+3.Administrator Menu
+4.Exit
+
+Enter your choice : 1
+
+---------------------------------------------
+|Book Issue|
+---------------------------------------------
+Enter the admission number of the student : 20006
+Enter the book number : 1002
+
+Enquire about it.
+This book is already issued to someone else.
+
+---------------------------------------------
+|Main Menu|
+---------------------------------------------
+Choose from the following options :
+1.Book Issue
+2.Book Deposit
+3.Administrator Menu
+4.Exit
+
+Enter your choice : 2
+
+---------------------------------------------
+|Book Deposit|
+---------------------------------------------
+Enter the admission number of the student : 20006
+
+Student hadn't issued any book.
+
+---------------------------------------------
+|Main Menu|
+---------------------------------------------
+Choose from the following options :
+1.Book Issue
+2.Book Deposit
+3.Administrator Menu
+4.Exit
+
+Enter your choice : 2
+
+---------------------------------------------
+|Book Deposit|
+---------------------------------------------
+Enter the admission number of the student : 20007
+Enter the book number : 1008
+
+Something went wrong.
+This book is already returned to library.
+
+---------------------------------------------
+|Main Menu|
+---------------------------------------------
+Choose from the following options :
+1.Book Issue
+2.Book Deposit
+3.Administrator Menu
+4.Exit
+
+Enter your choice : 2
+
+---------------------------------------------
+|Book Deposit|
+---------------------------------------------
+Enter the admission number of the student : 20007
+Enter the book number : 1002
+
+Details of the book are :
+Book's number : 1002
+Book's name : Godan
+Book's author : Premchand
+
+Now, just enter today's date as DD/MM/YY : 15/02/22
+
+Book deposited successfully.
+
+---------------------------------------------
+|Main Menu|
+---------------------------------------------
+Choose from the following options :
+1.Book Issue
+2.Book Deposit
+3.Administrator Menu
+4.Exit
+
+Enter your choice : 3
+Enter the admin password: 12345
+
+---------------------------------------------
+| Administrator Menu |
+---------------------------------------------
+1. Book's record
+2. Student's record
+3. View summary
+4. Back to Menu
+
+Enter your choice: 3
+
+---------------------------------------------
+| Summary |
+---------------------------------------------
+=========================================================
+   Date    Description    Student's No./Name      Book's No./Name
+=========================================================
+02/02/22         Issue 20007 / Deepak Mishra         1002 / Godan
+03/02/22         Issue  20004 / Ananya Singh   1004 / White Tiger
+15/02/22       Deposit 20007 / Deepak Mishra         1002 / Godan
+
+---------------------------------------------
+| Administrator Menu |
+---------------------------------------------
+1. Book's record
+2. Student's record
+3. View summary
+4. Back to Menu
+
+Enter your choice: 4
+
+---------------------------------------------
+|Main Menu|
+---------------------------------------------
+Choose from the following options :
+1.Book Issue
+2.Book Deposit
+3.Administrator Menu
+4.Exit
+
+Enter your choice : 4
+
+--------------------------------
+Process exited after 373.7 seconds with return value 0
+Press any key to continue . . .
